@@ -1,10 +1,5 @@
 django
-gunicorn
-dj-database-url
 black
 flake8
 coverage
 coveralls
-importlib-metadata
-psycopg2
-whitenoise
